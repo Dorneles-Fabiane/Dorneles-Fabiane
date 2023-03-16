@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Fabi!
 I’m interested in web development as Full Stack developer!
-Be welcome to explore my github repositories, i hope we can learn something together!
+Be welcome to explore my github repositories, I hope we can learn something together!
 
 ### Some of my main skils
 - JavaScript and NodeJS
