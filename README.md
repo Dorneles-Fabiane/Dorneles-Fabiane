@@ -4,9 +4,12 @@ Be welcome to explore my github repositories, I hope we can learn something toge
 
 ### Some of my main skils
 - JavaScript and NodeJS
+- React and Typescript
 - Linux, sh and bash
-- Docker and Puppeteer
+- Docker
+- Puppeteer
 - Jest, Mocha & Chai
+- Learning Python
 
 📫 How to reach me 
 - Clique [here](https://www.linkedin.com/in/fabiane-dorneles-4412071a8/) to go to my LinkedIn account
